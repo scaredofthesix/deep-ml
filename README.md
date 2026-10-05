@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**9** solved · 9 problems · 0 labs · 0 math
+**10** solved · 10 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-10-05 | [solution](problems/0104-binary-classification-with-logistic-regression) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-10-05 | [solution](problems/0036-calculate-accuracy-score) |
+| [Calculate F1 Score from Predicted and True Labels](https://www.deep-ml.com/problems/91) | easy | 2026-10-05 | [solution](problems/0091-calculate-f1-score-from-predicted-and-true-labels) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-10-05 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-10-05 | [solution](problems/0046-implement-precision-metric) |
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-10-05 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
